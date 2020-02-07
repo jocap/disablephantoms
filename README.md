@@ -8,7 +8,7 @@ Another alternative is to use the new `doInsomnia` game rule, although this is o
 
 The advantage of using DisablePhantoms over the new game rule or other mods is that it disables phantoms in all of your worlds, period, as long as you have the mod loaded.  The alternatives have to be configured on a per-world basis.
 
-Install the mod by dropping its jar file into `.minecraft/mods`. Requires Minecraft Forge.
+Install the mod by dropping its jar file into `.minecraft/mods`. Requires Minecraft Forge for Minecraft 1.14.
 
 * [Download latest release][lat]
 * [See all releases][all]
